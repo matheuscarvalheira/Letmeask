@@ -4,7 +4,7 @@ import { auth, firebase } from "../services/firebase";
 
 type User = {
   id: String,
-  name: String,
+  name: string,
   avatar: string
 }
 
