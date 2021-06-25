@@ -15,10 +15,10 @@
 # 💻 Interface Web!
 
 <p>
-  <img src="./public/images/homepage.png" width="470"/>
-  <img src="./public/images/createroom.png" width="470"/>
+  <img src="./public/images/homepage.png" width="490"/>
+  <img src="./public/images/createroom.png" width="490"/>
   <img src="./public/images/room.png" width="470"/>
-  <img src="./public/images/adminroom.png" width="470" center/>
+  <img src="./public/images/adminroom.png" width="490" center/>
 </p>
 
 ---
